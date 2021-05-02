@@ -1,0 +1,132 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .bottom-warp {
+        width: 700px;
+        margin: 0 auto;
+        padding-top: 270px;
+    }
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .logo img {
+        width: 250px;
+    }
+    .header-txt p {
+        font-size: 24px;
+    }
+    .coming-txt h4 {
+        font-size: 24px;
+    }
+
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .logo img {
+        width: 250px;
+    }
+    .bottom-warp {
+        padding-top: 50px;
+    }
+    .header-txt p {
+        font-size: 22px;
+    }
+
+}
+ 
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo img {
+        width: 180px;
+    }
+    .header-txt p {
+        font-size: 18px;
+    }
+    .header-txt {
+        margin-left: 35px;
+    }
+    .bottom-warp {
+        width: 600px;
+        margin: 0 auto;
+    }
+    .bottom-warp {
+        padding-top: 30px;
+    }
+
+
+}
+ 
+
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+   
+    .bottom-warp {
+        width: 100%;
+    }
+    .icon-item img {
+        width: 45px;
+    }
+    .logo img {
+        width: 180px;
+    }
+    .header-top {
+        display: block;
+        text-align: center;
+    }
+    .header-txt {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    .header-txt p {
+        font-size: 18px;
+    }
+    .coming-txt h4 {
+        font-size: 20px;
+    }
+    .bottom-warp {
+        width: 100%;
+        padding-top: 50px;
+    }
+    .box-3 {
+        left: -10px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  
+    
+    
+ 
+}
